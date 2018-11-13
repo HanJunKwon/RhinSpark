@@ -1,4 +1,4 @@
-# RhinSpark
+﻿# RhinSpark
 네이버 Clova 테스트
 
 추후 작업 내용
@@ -10,3 +10,4 @@
    
 4. STT 세션 연결 개선(스레드쪽 봐야 됨)
 5. STT의 경우 pcm으로 저장되기 때문에 mp3로 변환해주는 기능이 필요함.
+6. 소스코드 정리( TTS 부분 작업하면서 스레드 문제인 줄 알고 Handler, Thread, AsyncTask 다 사용해서 코드가 지저분함)
