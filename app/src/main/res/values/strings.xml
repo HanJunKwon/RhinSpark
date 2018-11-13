@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">Rhin 언어 재활 앱</string>
+
+    <!-- 녹음 관련 Toast 내용 -->
+    <string name="naver_api_connecte_successed">네이버 API에 연결을 성공하였습니다.</string>
+    <string name="started_record">음성 녹음을 시작하였습니다.</string>
+    <string name="partial_result_request">서버에 중간 결과를 요청하였습니다.</string>
+
+    <string name="rhin_record_path">/RhinRecords</string>
+    <string name="record_stop">녹음 중지</string>
+    <string name="record_start">녹음 시작</string>
+
 </resources>

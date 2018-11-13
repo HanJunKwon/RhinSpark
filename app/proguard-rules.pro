@@ -19,3 +19,8 @@
 # If you keep the line number information, uncomment this to
 # hide the original source file name.
 #-renamesourcefileattribute SourceFile
+
+# 아래 코드는 앱을 보다 가볍고 안전하게 만든다.
+-keep class com.naver.speech.clientapi.SpeechRecognizer{
+    protected private *;
+}

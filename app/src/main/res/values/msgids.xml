@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="clientInactive" type="id"></item>
+    <item name="clientReady" type="id"></item>
+    <item name="audioRecording" type="id"></item>
+    <item name="partialResult" type="id"></item>
+    <item name="finalResult" type="id"></item>
+    <item name="recognitionError" type="id"></item>
+    <item name="endPointDetectTypeSelected" type="id"></item>
+
+    <item name="sendText" type="id"></item>
+
+    <item name="SynthesisConnect" type="id"></item>
+    <item name="SendText" type="id"></item>
+    <item name="ResultRecordStart" type="id"></item>
+</resources>
